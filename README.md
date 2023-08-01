@@ -33,7 +33,7 @@ Sou *quase engenheiro* pela Universidade São Francisco e Técnico em Informáti
 ##
 <div>
   <a href="https://github.com/brenoenrico999">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoenrico999&layout=compact&langs_count=7&theme=dracula"/> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=brenoenrico999&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoenrico999&layout=compact&langs_count=7&theme=dracula"/> <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brenoenrico999&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ##
