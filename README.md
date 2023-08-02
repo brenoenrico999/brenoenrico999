@@ -6,7 +6,7 @@
 <table width="100%">
 <tr><td valign="top" width="50%">
 
-Sou *quase engenheiro* pela Universidade São Francisco e Técnico em Informática. Atuei como estagiário na Ypê e já realizei alguns trabalhos freelance. Aqui no GitHub vou colocar alguns projetos pessoais para compartilhar com vocês, sobre temas que venho estudando mais profundamente como IAs, ChatBots e APIs.
+Sou *quase engenheiro* pela Universidade São Francisco e Técnico em Informática. Trabalho atualmente na Universidade São Francisco, atuei como estagiário na Ypê e já realizei alguns trabalhos freelance na Workana. Aqui no GitHub vou colocar alguns projetos pessoais para compartilhar com vocês, sobre temas que venho estudando mais profundamente como IAs, ChatBots e APIs.
    
 <div align="center"> 
   <img src="https://media.tenor.com/pVwOAuOdI4MAAAAC/jim-carrey-bruce-almighty.gif" alt="Gif Jim Carrey codando">
