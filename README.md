@@ -22,8 +22,8 @@ Sou *quase engenheiro* pela Universidade São Francisco e Técnico em Informáti
 
 ### Experiências
 
-- 💻 Estagiário em BI, RPA e Chatbots - Ypê
 - 👨‍🔧 Analista de Sistemas Jr. - Universidade São Francisco
+- 💻 Estagiário em BI, RPA e Chatbots - Ypê
 - 💪 Freelancer - Workana
 
 ### Ferramentas e tecnologias que uso e continuo estudando
